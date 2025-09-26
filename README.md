@@ -1,6 +1,5 @@
 # MySQL_US_Houshold_Income_Analysis_Project
 
-# US Household Income Analysis Project  
 **Created by:** Hashit Purohit  
 **Date:** September 26, 2025  
 **Tool Used:** MySQL  
